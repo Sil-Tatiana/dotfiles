@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = siltatiana.sn@gmail.com
+	name = Silvia Neves
